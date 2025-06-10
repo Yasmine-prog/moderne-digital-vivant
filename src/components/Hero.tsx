@@ -26,7 +26,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-blue-100 font-light max-w-2xl mx-auto">
-            Social Media Manager en devenir
+            Social Media Manager 
           </p>
           
           <p className="text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed">
